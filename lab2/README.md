@@ -1,0 +1,1 @@
+# GAMES202 homework2  完成作业2所有内容，包括提高部分。   改动文件：离线端：prt.cpp  JavaScript部分：loadOBJ.js  WebGLRenderer.js  tool.js  Index.html  engine.js 增加文件:  PrtMaterial.js  prtfragment.glsl  prtvertex.glsl  
